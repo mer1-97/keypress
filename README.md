@@ -10,9 +10,8 @@
 ```py
 import keypress
 ```
-
 모듈 내 KEY 딕셔너리에 있는 값들만 사용이 가능합니다.
-
+<br/>
 * key_up, key_down
 ```py
 keypress.key_down('window')
